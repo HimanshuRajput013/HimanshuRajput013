@@ -6,14 +6,15 @@ Hi, I'm Himanshu Rajput, a passionate Data Scientist with a keen interest in Mac
 ## Skills and Technologies
 - **Languages:** Python, JavaScript, Html
 - **Frameworks and Libraries:** TensorFlow, Keras, NLP, Flask
-- **Tools:** Git, Docker, Mlflow
+- **Tools:** Git, Docker, Mlflow, MS Excel, Tableau, Power BI
 - **Databases:** MySQL, MongoDB
 
 ## Projects
 Here are a few projects I've worked on:
+👨‍💻 https://github.com/HimanshuRajput013
 
 ## Contact Me
-- **📫Email:** hrajput0013@gmail.com
+- **📫Can reach me out at:** hrajput0013@gmail.com
 - **LinkedIn:** [https://www.linkedin.com/in/himanshurajput0013/]
 
 
