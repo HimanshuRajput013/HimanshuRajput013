@@ -13,7 +13,7 @@ Hi, I'm Himanshu Rajput, a passionate Data Scientist with a keen interest in Mac
 Here are a few projects I've worked on:
 
 ## Contact Me
-- **Email:** hrajput0013@gmail.com
+- **📫Email:** hrajput0013@gmail.com
 - **LinkedIn:** [https://www.linkedin.com/in/himanshurajput0013/]
 
 
