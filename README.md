@@ -15,7 +15,7 @@ Here are a few projects I've worked on:
 
 ## Contact Me
 - **📫Can reach me out at:** hrajput0013@gmail.com
-- **💼LinkedIn:** [https://www.linkedin.com/in/himanshurajput0013/]
+- **💼LinkedIn:** https://www.linkedin.com/in/himanshurajput0013/
 
 
 
