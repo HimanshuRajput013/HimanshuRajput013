@@ -1,4 +1,4 @@
- # Welcome to My GitHub Profile!👋
+ # Hi 👋, I'm Himanshu Rajput
 
 ## 🚀 About Me
 Hi, I'm Himanshu Rajput, a passionate Data Scientist with a keen interest in Machine Learning,Deep Learning,Generative AI.I love working on innovative projects and sharing my knowledge with the community.
