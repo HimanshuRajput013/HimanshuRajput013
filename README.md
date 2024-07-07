@@ -1,9 +1,8 @@
  # Welcome to My GitHub Profile!👋
 
 ## 🚀 About Me
-Hi, I'm Himanshu Rajput, a passionate Data Scientist with a keen interest in Machine Learning,Deep Learning,Generative AI.I love working on innovative projects and sharing my knowledge with the community. ![data](https://github.com/HimanshuRajput013/HimanshuRajput013/assets/131947510/7b7569b5-6b67-438e-9ce7-cfee8ab2fb37)
-
-
+Hi, I'm Himanshu Rajput, a passionate Data Scientist with a keen interest in Machine Learning,Deep Learning,Generative AI.I love working on innovative projects and sharing my knowledge with the community.
+![data](https://github.com/HimanshuRajput013/HimanshuRajput013/assets/131947510/7b7569b5-6b67-438e-9ce7-cfee8ab2fb37)
 ## 🚀 Skills and Technologies
 - **Languages:** Python, JavaScript, Html
 - **Frameworks and Libraries:** TensorFlow, Keras, NLP, Flask
