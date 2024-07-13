@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](GitHub)
 
-- 💬 Ask me about **Python, Machine Learning, DeepLearning, NLP**
+- 💬 Ask me about **Python, SQL, Tableau, Power BI, Machine Learning, DeepLearning, NLP**
 
 - 📫 How to reach me **hrajput0013@gmail.com**
 
