@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Deep Learning & Generative AI**
 
-- 👨‍💻 All of my projects are available at [GitHub](GitHub)
+- 👨‍💻 All of my projects are available at GitHub.
 
 - 💬 Ask me about **Python, SQL, Tableau, Power BI, Machine Learning, DeepLearning, NLP**
 
