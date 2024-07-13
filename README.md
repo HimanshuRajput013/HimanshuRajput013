@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python, Machine Learning, DeepLearning, NLP**
 
-- 📫 How to reach me **abisheky194@gmail.com**
+- 📫 How to reach me **hrajput0013@gmail.com**
 
 - 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/abishekkumaryadav1/overlay/1720402185194/single-media-viewer/?profileId=ACoAADs_rEMBOQHLlADoSIJefiNDHRDHV0ghVw4)
 
