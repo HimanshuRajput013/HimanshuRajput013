@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **hrajput0013@gmail.com**
 
-- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/abishekkumaryadav1/overlay/1720402185194/single-media-viewer/?profileId=ACoAADs_rEMBOQHLlADoSIJefiNDHRDHV0ghVw4)
+- 📄 Know about my experiences [Linkedin](www.linkedin.com/in/himanshurajput0013/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
