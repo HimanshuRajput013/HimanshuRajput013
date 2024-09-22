@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Himanshu Rajput</h1>
 <h3 align="center">Aspiring Data Scientist.</h3>
 
-<img align="right" alt="Coding" width="400" src="(https://github.com/user-attachments/assets/434a4cbd-0e26-4967-ba0a-b094f52786aa)">
+<img align="right" alt="Coding" width="400" src="(https://github.com/user-attachments/assets/80bbedb6-9212-4202-a04f-4b55c2c7d1ce)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshurajput013&label=Profile%20views&color=0e75b6&style=flat" alt="himanshurajput013" /> </p>
 
