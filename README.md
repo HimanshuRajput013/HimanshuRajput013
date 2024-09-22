@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Himanshu Rajput</h1>
 <h3 align="center">Aspiring Data Scientist.</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<img align="right" alt="Coding" width="400" src="![gif github](https://github.com/user-attachments/assets/c034dcb4-d5cf-478a-9d2a-1945084db286)
+">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshurajput013&label=Profile%20views&color=0e75b6&style=flat" alt="himanshurajput013" /> </p>
 
 - 🌱 I’m currently learning **Deep Learning & Generative AI**
