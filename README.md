@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Himanshu Rajput</h1>
 <h3 align="center">Aspiring Data Scientist.</h3>
+![gif github](https://github.com/user-attachments/assets/d8c460a2-ac5e-4390-9ec7-33bd073f5a69)
+
 <img align="right" alt="Coding" width="400" src="![gif github](https://github.com/user-attachments/assets/c034dcb4-d5cf-478a-9d2a-1945084db286)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshurajput013&label=Profile%20views&color=0e75b6&style=flat" alt="himanshurajput013" /> </p>
 
