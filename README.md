@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Himanshu Rajput</h1>
 <h3 align="center">Aspiring Data Scientist.</h3>
-https://drive.google.com/file/d/15wYFvSVeF0nwazH9sYS4RvbshmjEgM-T/view?usp=sharing
+![gif github](https://github.com/user-attachments/assets/c1f90c6f-6c8b-4d2a-9f19-88c8dbbad5d4)
+
 
 <img align="right" alt="Coding" width="400" src="![gif github](https://github.com/user-attachments/assets/434a4cbd-0e26-4967-ba0a-b094f52786aa)">
 
